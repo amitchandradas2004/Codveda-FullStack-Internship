@@ -1,0 +1,25 @@
+{
+  "name": "simple-rest-api",
+  "version": "1.0.0",
+  "description": "Simple REST API using Node.js and Express.js for Codveda Technologies Internship - Level 1 Task 2",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "codveda-internship"
+  ],
+  "author": "Amit Chandra Das",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

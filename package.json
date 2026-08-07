@@ -1,0 +1,14 @@
+{
+  "name": "codveda-fullstack-internship",
+  "version": "1.0.0",
+  "description": "Codveda Full-Stack Development Internship Repository",
+  "private": true,
+  "scripts": {
+    "start": "npm run start --prefix Level-1-Basic/Task-2-Build-a-Simple-REST-API/simple-rest-api",
+    "dev": "npm run dev --prefix Level-1-Basic/Task-2-Build-a-Simple-REST-API/simple-rest-api",
+    "start:simple": "npm run start --prefix Level-1-Basic/Task-2-Build-a-Simple-REST-API/simple-rest-api",
+    "dev:simple": "npm run dev --prefix Level-1-Basic/Task-2-Build-a-Simple-REST-API/simple-rest-api",
+    "start:mongo": "npm run start --prefix Level-1-Basic/Task-2-REST-API/backend",
+    "dev:mongo": "npm run dev --prefix Level-1-Basic/Task-2-REST-API/backend"
+  }
+}

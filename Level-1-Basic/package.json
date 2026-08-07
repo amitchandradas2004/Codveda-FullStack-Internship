@@ -1,0 +1,9 @@
+{
+  "name": "level-1-basic",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm run start --prefix Task-2-Build-a-Simple-REST-API/simple-rest-api",
+    "dev": "npm run dev --prefix Task-2-Build-a-Simple-REST-API/simple-rest-api"
+  }
+}
